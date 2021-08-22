@@ -1,7 +1,7 @@
 import cartImage from '../../assets/icons8-fast-cart-96.png'
 const CartIcon = () => {
   return (
-    <img src={cartImage} alt='my nice cart' style={{height:23, width:20, marginRight:11, paddingTop:7}}/>
+    <img src={cartImage} alt='my nice cart' style={{height:25, width:22, marginRight:11, paddingTop:7}}/>
     // <svg
     //   xmlns="http://www.w3.org/2000/svg"
     //   viewBox="0 0 20 20"
